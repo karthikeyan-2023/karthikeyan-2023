@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @karthikeyan-2023
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-karthikeyan-2023/karthikeyan-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @karthikeyan-2023  
+- 👀 I’m interested in Machine Learning, AI, and Web Development  
+- 🌱 I’m currently learning Deep Learning, NLP, and UI/UX Design  
+- 💞️ I’m looking to collaborate on AI-powered applications, NLP projects, and open-source contributions  
+- 📫 How to reach me: [Email](mailto:karthikeyanvsp2005@gmail.com) | [GitHub](https://github.com/karthikeyan-2023)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love participating in hackathons and building AI-powered chatbots!  

@@ -1,8 +1,53 @@
+# Hi there, I'm Karthikeyan! 👋
 
-- 👋 Hi, I’m @karthikeyan-2023  
-- 👀 I’m interested in Machine Learning, AI, and Web Development  
-- 🌱 I’m currently learning Deep Learning, NLP, and UI/UX Design  
-- 💞️ I’m looking to collaborate on AI-powered applications, NLP projects, and open-source contributions  
-- 📫 How to reach me: [Email](mailto:karthikeyanvsp2005@gmail.com) | [GitHub](https://github.com/karthikeyan-2023)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love participating in hackathons and building AI-powered chatbots!  
+I'm a passionate developer who loves to explore new technologies and build amazing projects. Welcome to my GitHub profile!
+
+## 🔧 Technologies & Tools
+
+- Programming Languages: 
+  - Python
+  - JavaScript
+  - TypeScript
+  - Java
+  - C++
+  
+- Frameworks & Libraries:
+  - React
+  - Node.js
+  - Express
+  - Django
+  - Flask
+  
+- Databases:
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+  
+- Tools & Platforms:
+  - Docker
+  - Kubernetes
+  - Git
+  - GitHub Actions
+  - AWS
+
+## 🌱 Currently Learning
+
+- Rust
+- GraphQL
+- Machine Learning
+
+## 📈 GitHub Stats
+
+![Karthikeyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan-2023&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- Email: karthikeyan@example.com
+- LinkedIn: [Karthikeyan](https://www.linkedin.com/in/karthikeyan-2023)
+- Twitter: [@karthikeyan_2023](https://twitter.com/karthikeyan_2023)
+
+## 💬 Let's Connect!
+
+I'm always open to collaborating on interesting projects and ideas. Feel free to reach out to me through any of the platforms mentioned above. Let's build something great together!
+
+```` ▋

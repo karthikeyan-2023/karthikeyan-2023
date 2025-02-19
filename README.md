@@ -6,34 +6,21 @@ I'm a passionate developer who loves to explore new technologies and build amazi
 
 - Programming Languages: 
   - Python
-  - JavaScript
-  - TypeScript
   - Java
-  - C++
-  
-- Frameworks & Libraries:
-  - React
-  - Node.js
-  - Express
-  - Django
-  - Flask
   
 - Databases:
   - MySQL
-  - PostgreSQL
   - MongoDB
   
 - Tools & Platforms:
   - Docker
-  - Kubernetes
   - Git
   - GitHub Actions
-  - AWS
 
 ## 🌱 Currently Learning
 
-- Rust
-- GraphQL
+- GenAI
+- Deep learning 
 - Machine Learning
 
 ## 📈 GitHub Stats
@@ -42,9 +29,8 @@ I'm a passionate developer who loves to explore new technologies and build amazi
 
 ## 📫 How to reach me
 
-- Email: karthikeyan@example.com
-- LinkedIn: [Karthikeyan](https://www.linkedin.com/in/karthikeyan-2023)
-- Twitter: [@karthikeyan_2023](https://twitter.com/karthikeyan_2023)
+- Email: [Karthikeyan](karthikeyanvsp2005@gmail.com)
+- LinkedIn: [Karthikeyan](https://www.linkedin.com/in/karthikeyan-p-18a3062a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 💬 Let's Connect!
 

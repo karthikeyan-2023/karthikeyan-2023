@@ -1,39 +1,45 @@
-# Hi there, I'm Karthikeyan! 👋
+# 👋 Hi, I'm Karthikeyan!
 
-I'm a passionate developer who loves to explore new technologies and build amazing projects. Welcome to my GitHub profile!
+🎓 I'm currently pursuing a B.Tech in **Artificial Intelligence and Data Science** at **St. Joseph's Institute of Technology, Chennai**.  
+🚀 I’m passionate about **Machine Learning**, **Deep Learning**, **Web Development**, and building impactful AI-powered projects.
 
 ## 🔧 Technologies & Tools
+- 🧠 Machine Learning: Scikit-learn, Pandas, NumPy
+- 🤖 Deep Learning: TensorFlow, Keras
+- 🌐 Web Dev: HTML, CSS, JavaScript, React, Node.js, MongoDB
+- 🧰 Tools: Git, GitHub, VS Code, Figma
+- ☁️ Cloud & DevOps Basics: GitHub Actions, Deployment Tools
 
-- Programming Languages: 
-  - Python
-  - Java
-  
-- Databases:
-  - MySQL
-  - MongoDB
-  
-- Tools & Platforms:
-  - Docker
-  - Git
-  - GitHub Actions
+## 💼 Internships & Projects
+- 🧪 **ML Intern @ Building Enterprises and Training Solutions**
+  - Worked on classification and regression models
+  - Applied ML in real-world scenarios
 
-## 🌱 Currently Learning
+- 💡 **Projects**:
+  - Fake Review Detection using Naive Bayes
+  - Twitter Sentiment Analysis
+  - PDF Chatbot (NLP + RAG)
+  - Facial Recognition GUI App
+  - Amazon Clone (Web Dev)
+  - Gamified Aptitude Learning Platform (Ongoing)
 
-- GenAI
-- Deep learning 
-- Machine Learning
+## 🏆 Certifications
+- Python for Data Science – NPTEL (Elite)
+- Data Mining – NPTEL
+- Deep Learning – Coursera
+- MongoDB – Infosys Springboard
+- HTML & Java – IIT Bombay
 
-## 📈 GitHub Stats
+## 📈 Goals for 2025
+- Build a strong open-source presence 🌟  
+- Create YouTube content on technical topics for 100 days 🎥  
+- Land an AI/ML internship or full-time role 💼  
 
-![Karthikeyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan-2023&show_icons=true&theme=radical)
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/karthikeyanp)
+- 💻 [GitHub](https://github.com/karthike)yan-2023
+- ✉️ Email: karthikeyanvsp2005@gmail.com
 
-## 📫 How to reach me
+---
 
-- Email: [Karthikeyan](karthikeyanvsp2005@gmail.com)
-- LinkedIn: [Karthikeyan](https://www.linkedin.com/in/karthikeyan-p-18a3062a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-## 💬 Let's Connect!
-
-I'm always open to collaborating on interesting projects and ideas. Feel free to reach out to me through any of the platforms mentioned above. Let's build something great together!
-
-```` ▋
+Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ if you find something useful.

@@ -36,8 +36,8 @@
 - Land an AI/ML internship or full-time role 💼  
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/karthikeyanp)
-- 💻 [GitHub](https://github.com/karthike)
+- 💼 [LinkedIn](https://www.linkedin.com/in/karthikeyan-p-18a3062a1/)
+- 💻 [GitHub](https://github.com/karthikeyan-2023)
 - ✉️ Email: karthikeyanvsp2005@gmail.com
 
 ---

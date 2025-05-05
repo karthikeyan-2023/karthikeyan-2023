@@ -37,7 +37,7 @@
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/karthikeyanp)
-- 💻 [GitHub](https://github.com/karthike)yan-2023
+- 💻 [GitHub](https://github.com/karthike)
 - ✉️ Email: karthikeyanvsp2005@gmail.com
 
 ---

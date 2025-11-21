@@ -1,4 +1,4 @@
-# 🌟 Karthikeyan Palanisamy – AI & ML Enthusiast
+# 🌟 Karthikeyan P – AI & ML Enthusiast
 
 👋 Hi! I'm **Karthikeyan**, an aspiring **AI/ML Engineer** currently pursuing **B.Tech in Artificial Intelligence and Data Science** at **St. Joseph's Institute of Technology, Chennai**.  
 I’m passionate about building intelligent systems, automation workflows, and real-world AI applications.

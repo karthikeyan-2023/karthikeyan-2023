@@ -72,10 +72,7 @@ I’m passionate about building intelligent systems, automation workflows, and r
 - Built using **React, Node.js, Express, REST APIs**  
 - Integrated **GPT-3.5 & BERT** for AI-driven recommendations
 
-### 🔸 
-### 🔸 Amazon Clone Website  
 
----
 
 ## 🏆 Certifications
 - Python for Data Science – **NPTEL (Elite)**

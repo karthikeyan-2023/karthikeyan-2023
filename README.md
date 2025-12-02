@@ -1,109 +1,71 @@
-# 🌟 Karthikeyan P – AI & ML Enthusiast
+<!--  👋 Hi, I’m KARTHIKEYAN P  -->
 
-👋 Hi! I'm **Karthikeyan**, an aspiring **AI/ML Engineer** currently pursuing **B.Tech in Artificial Intelligence and Data Science** at **St. Joseph's Institute of Technology, Chennai**.  
-I’m passionate about building intelligent systems, automation workflows, and real-world AI applications.
-
----
-
-## 🚀 About Me
-- 🎓 **B.Tech – AI & DS (2026)**
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **AI Agents**, **Automation**, **NLP**, and **Web Development**
-- 💼 Currently an **AI Agents & Automation Intern @ Zuntra Digital**
+<h1 align="center">👋 Hi, I'm Karthikeyan P</h1>
+<p align="center">
+🚀 AI/ML Engineer • 🤖 AI Agents & Automation Developer • 🧠 Deep Learning Enthusiast
+</p>
 
 ---
 
-## 🔧 Tech Stack
+### 🧑‍💻 About Me
 
-### 👨‍💻 Programming & Scripting
-- Python, JavaScript, Java
-
-### 🧠 Machine Learning & Deep Learning
-- Scikit-learn, Pandas, NumPy  
-- TensorFlow, Keras  
-- NLP, RAG Systems, LangChain  
-- Computer Vision (CNNs, GANs, Pose Estimation)
-
-### 🌐 Web Development
-- HTML, CSS, JavaScript  
-- React.js, Node.js, Express  
-- MongoDB  
-- REST APIs
-
-### 🔧 Tools & DevOps
-- Git, GitHub  
-- VS Code  
-- Flowise, Zapier  
-- Twitter API  
-- Figma  
-- Basics of Cloud & DevOps
+I'm a **B.Tech Artificial Intelligence and Data Science** student passionate about building intelligent systems that solve real-world problems.  
+I specialize in **Machine Learning, Deep Learning, NLP, and AI-based Automation** using both code and no-code tools.
 
 ---
 
-## 💼 Experience
+### ⚡ What I Do
 
-### 🔹 AI Agents & Automation Intern – Zuntra Digital (Jun 2025–Present)
-- Building intelligent **AI agents** for autonomous tasks  
-- Working with **LangChain**, **Flowise**, **LLMs**  
-- Performing API integrations & workflow automations  
-- Creating real-time business automation pipelines  
-- Developing lead generation & chatbot AI systems
-
-### 🔹 Machine Learning Intern – Building Enterprises and Training Solutions (Dec 2023–Jan 2024)
-- Built ML models for **classification**, **regression**, **sentiment analysis**, **fake news detection**
-- Improved model performance through feature engineering
-- Constructed end-to-end ML pipelines using Scikit-learn & Pandas
+- 🤖 Develop **AI Agents** and workflow automations using Python, n8n, and OpenAI APIs  
+- 🧬 Build and deploy **Machine Learning & Deep Learning models**  
+- 🔍 Integrate **RAG + LLMs** for context-aware intelligent chat systems  
+- 🛠 Convert **Natural Language into SQL queries** using AI-driven pipelines  
+- 🕵 Work on anomaly detection and fraud analytics
 
 ---
 
-## 🧪 Featured Projects
+### 🏗️ Featured Projects
 
-### 🔸 PoseShift.AI – Human Pose Estimation
-- Developed 2D/3D pose estimation using **GANs, VAEs, CNNs**
-- Added **LLM-based natural language feedback**
-- Includes real-time action recognition for robotics/fitness
-
-### 🔸 Microblogging Sentiment Analysis (Twitter)
-- Built a sentiment classifier with **TF-IDF + Logistic Regression**
-- Achieved **85% accuracy**
-- Integrated Twitter API for real-time sentiment streams
-
-### 🔸 Interview Creation Portal
-- Full-stack system for interview scheduling  
-- Built using **React, Node.js, Express, REST APIs**  
-- Integrated **GPT-3.5 & BERT** for AI-driven recommendations
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Fraud Detection using DBN** | Identifies fraudulent transactions using Deep Belief Networks | Python, Deep Learning |
+| **AI SQL Query Generator** | Converts natural language to optimized SQL queries | FastAPI, Streamlit, LangChain |
+| **Multi-Agent Chat System** | Agents for retrieval, summarization & verification | LLMs, RAG, LangChain |
+| **Fake News Detection** | Detects misinformation using LSTM-based NLP models | Python, NLP, Deep Learning |
+| **Agentic RAG Pipelines** | Retrieval + reasoning systems with tools integration | LLMs, Vector DB |
 
 
 
-## 🏆 Certifications
-- Python for Data Science – **NPTEL (Elite)**
-- Data Mining – **NPTEL**
-- Deep Learning – **Coursera**
-- MongoDB – **Infosys Springboard**
-- HTML & Java – **IIT Bombay**
-- UI/UX – **GUVI**
-- Prompt Engineering – **IBM**
+### 🛠 Tech Stack
 
----
+yaml
+Languages      : Python, Java  
+Databases      : MySQL  
+AI & ML Skills : Machine Learning, Deep Learning, NLP, RAG, LLMs  
+Tools          : VS Code, GitHub, Jupyter Notebook  
+No-Code Tools  : n8n, Make.com
 
-## 🌍 Volunteering
-- Organizer – **Smart India Hackathon (2024)**
-  
----
+###🏆 Achievements
 
-## 🎯 Goals for 2025
-- Build strong **open-source contributions**  
-- Complete **100 days of YouTube content**  
-- Publish AI & automation tools  
-- Get into a top-tier **AI/ML internship or job role**
+🥇 GenAI Hackathon – Finalist
 
----
+🛎️ Bolt Hackathon – Participant
 
-## 🔗 Connect with Me
+🎤 Attended GenAI & ML meetups and contributed to student tech workshops
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/karthikeyan-p-18a3062a1/  
-- 💻 **GitHub:** https://github.com/karthikeyan-2023  
-- ✉️ **Email:** karthikeyanvsp2005@gmail.com  
+###🌱 Currently Exploring
+
+Autonomous AI Agents without human supervision
+
+RAG + Multi-Agent systems
+
+Real-world LLM/Automation products
+
+###📬 Connect With Me
+
+🔗 LinkedIn: (add your link here)
+🐙 GitHub : https://github.com/karthikeyan-2023
+
+📧 Email : karthikeyanvsp2005@gmail.com
 
 ---
-
-⭐ *Thanks for visiting! Feel free to explore my repositories and drop a star if you like my work.*  

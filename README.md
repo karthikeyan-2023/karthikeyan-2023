@@ -1,71 +1,104 @@
-<!--  👋 Hi, I’m KARTHIKEYAN P  -->
+<h1 align="left">👋 Hey! I'm <strong>Karthikeyan P</strong></h1>
 
-<h1 align="center">👋 Hi, I'm Karthikeyan P</h1>
-<p align="center">
-🚀 AI/ML Engineer • 🤖 AI Agents & Automation Developer • 🧠 Deep Learning Enthusiast
+💡 <em>AI/ML Engineer | AI Agents & Automation Developer | Deep Learning Practitioner</em>  
+📍 Chennai, India  
+📧 karthikeyanvsp2005@gmail.com  
+
+---
+
+## 🚀 Summary
+
+I'm an AI engineer passionate about building **autonomous, intelligent, agentic systems** powered by  
+**Machine Learning, Deep Learning, NLP, LLMs, and workflow automation**.  
+
+I enjoy transforming raw ideas into production-ready AI tools, agents, and data-driven applications.
+
+---
+
+## 🧠 Core Interests
+
+- LLM-powered reasoning agents  
+- Retrieval-Augmented Generation (RAG) systems  
+- Deep learning for pattern recognition  
+- AI-driven workflow automation & orchestration  
+- Natural language → actionable insights/systems  
+
+---
+
+## 🧰 Tech Toolbox
+
+diff
++ Languages     : Python, Java
++ Databases     : MySQL
++ AI/ML         : Deep Learning, Machine Learning, NLP, RAG, LLM Agents
++ Frameworks    : FastAPI, Streamlit, LangChain
++ Dev Tools     : VS Code, GitHub, Jupyter Notebook
++ Automation    : n8n, Make.com
+
+
+
+## 🏗️ My Notable Builds
+
+### 🕵🏻 Fraud Detection using Deep Belief Networks
+Detects fraudulent transactions using stacked probabilistic models.
+
+### 🧠 AI-Powered Multi-Agent Chat System
+Agents with **memory**, **verification**, **RAG**, **summarization**, and controlled coordination.
+
+### 🗄️ Natural Language → SQL Query Generator
+Accepts human text and generates optimized SQL queries with a **FastAPI + LangChain** backend.
+
+### 🎙️ Fake News Detection (LSTM)
+Identifies misinformation using **deep NLP** processing.
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech – Artificial Intelligence & Data Science (2022–2026)**  
+**St. Joseph’s Institute of Technology, Chennai** — CGPA: **7.6**
+
+---
+
+## 🏅 Highlights
+
+- 🏆 **GenAI Hackathon – Finalist**
+- 🔔 **Bolt Hackathon – Participant**
+- 📣 Organized AI/ML student workshops & participated in tech meetups
+
+---
+
+## 📜 Certifications
+
+- 🐍 **Python for Data Science** — NPTEL  
+- 🔮 **Prompt Engineering** — IBM  
+- 🤖 **Supervised Machine Learning** — Coursera  
+- 🧠 **NLP Foundations** — Infosys  
+- 🌐 **Networking Basics** — Cisco  
+
+---
+
+## 🧭 What I'm Exploring Now
+
+- 🤖 Self-improving **autonomous AI agents**
+- 🔁 Multi-agent orchestration with **memory & tool-use**
+- 📚 Knowledge-grounded **LLM systems**
+
+---
+
+## 📈 GitHub Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-2023&show_icons=true&hide_title=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-2023&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🌐 Connect With Me
 
-I'm a **B.Tech Artificial Intelligence and Data Science** student passionate about building intelligent systems that solve real-world problems.  
-I specialize in **Machine Learning, Deep Learning, NLP, and AI-based Automation** using both code and no-code tools.
-
----
-
-### ⚡ What I Do
-
-- 🤖 Develop **AI Agents** and workflow automations using Python, n8n, and OpenAI APIs  
-- 🧬 Build and deploy **Machine Learning & Deep Learning models**  
-- 🔍 Integrate **RAG + LLMs** for context-aware intelligent chat systems  
-- 🛠 Convert **Natural Language into SQL queries** using AI-driven pipelines  
-- 🕵 Work on anomaly detection and fraud analytics
-
----
-
-### 🏗️ Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Fraud Detection using DBN** | Identifies fraudulent transactions using Deep Belief Networks | Python, Deep Learning |
-| **AI SQL Query Generator** | Converts natural language to optimized SQL queries | FastAPI, Streamlit, LangChain |
-| **Multi-Agent Chat System** | Agents for retrieval, summarization & verification | LLMs, RAG, LangChain |
-| **Fake News Detection** | Detects misinformation using LSTM-based NLP models | Python, NLP, Deep Learning |
-| **Agentic RAG Pipelines** | Retrieval + reasoning systems with tools integration | LLMs, Vector DB |
-
-
-
-### 🛠 Tech Stack
-
-yaml
-Languages      : Python, Java  
-Databases      : MySQL  
-AI & ML Skills : Machine Learning, Deep Learning, NLP, RAG, LLMs  
-Tools          : VS Code, GitHub, Jupyter Notebook  
-No-Code Tools  : n8n, Make.com
-
-###🏆 Achievements
-
-🥇 GenAI Hackathon – Finalist
-
-🛎️ Bolt Hackathon – Participant
-
-🎤 Attended GenAI & ML meetups and contributed to student tech workshops
-
-###🌱 Currently Exploring
-
-Autonomous AI Agents without human supervision
-
-RAG + Multi-Agent systems
-
-Real-world LLM/Automation products
-
-###📬 Connect With Me
-
-🔗 LinkedIn: (add your link here)
-🐙 GitHub : https://github.com/karthikeyan-2023
-
-📧 Email : karthikeyanvsp2005@gmail.com
+🐙 GitHub: **https://github.com/karthikeyan-2023**  
+📧 Email: **karthikeyanvsp2005@gmail.com**  
+🔗 LinkedIn: *(Add your profile link here)*
 
 ---

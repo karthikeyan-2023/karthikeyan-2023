@@ -86,19 +86,12 @@ Identifies misinformation using **deep NLP** processing.
 
 ---
 
-## 📈 GitHub Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-2023&show_icons=true&hide_title=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-2023&layout=compact&theme=radical" height="160"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 🐙 GitHub: **https://github.com/karthikeyan-2023**  
 📧 Email: **karthikeyanvsp2005@gmail.com**  
-🔗 LinkedIn: *(Add your profile link here)*
+🔗 LinkedIn: *https://www.linkedin.com/in/karthikeyan-p-18a3062a1/*
 
 ---
